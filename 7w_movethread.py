@@ -101,3 +101,4 @@ if __name__ == "__main__":
     task1.start() # 쓰레드 시작
     main() # 메인함수 호출 
     bleSerial.close() # 블루투스 시리얼 통신 종료
+    # 커밋 파일 수정을 위한 테스트
